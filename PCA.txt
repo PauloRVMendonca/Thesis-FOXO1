@@ -1,0 +1,1 @@
+"PCA" refers to the code designed for conducting Principal Component Analysis (PCA) on gene expression across two genotypes . This code encompasses the function responsible for computing normalized Transcripts Per Million (TPM) values and constructing tables essential for PCA. Subsequently, the code facilitates the visualization of PCA results through plotting.
